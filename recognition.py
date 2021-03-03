@@ -49,6 +49,6 @@ cv2.waitKey(0)
 
 # Here is the main function
 def main():
-    print("Testing")
+    print("Hello")
 
 main()
