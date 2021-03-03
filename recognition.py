@@ -23,6 +23,6 @@ import cv2
 
 # Here is the main function
 def main():
-    print("Testing")
+    print("Hello")
 
 main()
